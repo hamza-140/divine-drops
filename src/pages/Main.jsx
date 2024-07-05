@@ -4,6 +4,7 @@ import Explore from "./Explore";
 import Benefits from "./Benefits";
 import Contact from "./Contact";
 import Story from "./Story";
+import Service from "./Service";
 
 function Main() {
   return (
@@ -12,6 +13,7 @@ function Main() {
       <Explore></Explore>
       <Benefits></Benefits>
       <Story></Story>
+      <Service></Service>
       <Contact></Contact>
     </div>
   );
