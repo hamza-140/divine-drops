@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  @font-face {
+    font-family: "Chelon";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/src/assets/fonts/CHELON.woff) format("woff2");
+  }
+  @font-face {
+    font-family: "Bona";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/src/assets/fonts/BonaNova-Regular.ttf) format("ttf");
+  }
+  @font-face {
+    font-family: "Futura";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/src/assets/fonts/futur.ttf) format("ttf");
+  }
+}
