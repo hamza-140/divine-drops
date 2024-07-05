@@ -3,6 +3,7 @@ import Homepage from "./Homepage";
 import Explore from "./Explore";
 import Benefits from "./Benefits";
 import Contact from "./Contact";
+import Story from "./Story";
 
 function Main() {
   return (
@@ -10,6 +11,7 @@ function Main() {
       <Homepage></Homepage>
       <Explore></Explore>
       <Benefits></Benefits>
+      <Story></Story>
       <Contact></Contact>
     </div>
   );
