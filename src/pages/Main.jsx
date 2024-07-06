@@ -5,6 +5,8 @@ import Benefits from "./Benefits";
 import Contact from "./Contact";
 import Story from "./Story";
 import Service from "./Service";
+import Community from "./Community";
+import Education from "./Education";
 
 function Main() {
   return (
@@ -14,6 +16,8 @@ function Main() {
       <Benefits></Benefits>
       <Story></Story>
       <Service></Service>
+      <Community></Community>
+      <Education></Education>
       <Contact></Contact>
     </div>
   );
