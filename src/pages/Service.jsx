@@ -1,8 +1,4 @@
 import React from "react";
-import Slider from "../components/Slider";
-import Bottle from "../assets/bottle.png";
-import Card from "../components/Card";
-import CardSmall from "../components/CardSmall";
 import CardImg from "../components/CardImg";
 import CardImgSmall from "../components/CardImgSmall";
 
